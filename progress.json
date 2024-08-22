@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T07:28:01.752Z",
+  "generated_at": "2026-10-16T07:28:04.294Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -76,6 +76,19 @@
       "path": "problems/0023-softmax-activation-function-implementation",
       "first_solved_at": "2024-08-13T15:52:49.282Z",
       "last_pushed_at": "2024-08-13T15:52:49.282Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2024-08-22T11:33:09.482Z",
+      "last_pushed_at": "2024-08-22T11:33:09.482Z",
       "language": "python",
       "lines": 1
     }
