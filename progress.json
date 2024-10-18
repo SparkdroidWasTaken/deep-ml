@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T07:28:06.256Z",
+  "generated_at": "2026-10-16T07:28:08.703Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -141,6 +141,45 @@
       "path": "problems/0042-implement-relu-activation-function",
       "first_solved_at": "2024-08-25T22:33:03.105Z",
       "last_pushed_at": "2024-08-25T22:33:03.105Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:55": {
+      "kind": "problem",
+      "id": "55",
+      "title": "2D Translation Matrix Implementation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/55",
+      "path": "problems/0055-2d-translation-matrix-implementation",
+      "first_solved_at": "2024-10-18T21:03:06.723Z",
+      "last_pushed_at": "2024-10-18T21:03:06.723Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2024-10-18T21:20:53.359Z",
+      "last_pushed_at": "2024-10-18T21:20:53.359Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2024-10-18T21:44:48.085Z",
+      "last_pushed_at": "2024-10-18T21:44:48.085Z",
       "language": "python",
       "lines": 1
     }
