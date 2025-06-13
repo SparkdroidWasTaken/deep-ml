@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T07:28:10.573Z",
+  "generated_at": "2026-10-16T07:28:12.796Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -195,6 +195,45 @@
       "last_pushed_at": "2025-05-28T20:55:18.758Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2025-06-13T21:57:19.316Z",
+      "last_pushed_at": "2025-06-13T21:57:19.316Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2025-06-13T22:00:17.824Z",
+      "last_pushed_at": "2025-06-13T22:00:17.824Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2025-06-13T22:12:50.254Z",
+      "last_pushed_at": "2025-06-13T22:12:50.254Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
