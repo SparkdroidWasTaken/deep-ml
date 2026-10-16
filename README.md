@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 37 problems · 0 labs · 1 math
+**39** solved · 38 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2024-08-13 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2024-08-22 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2024-08-13 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Tensor Puzzle: Upper-Triangular Ones Matrix](https://www.deep-ml.com/problems/1273) | easy | 2026-10-16 | [solution](problems/1273-tensor-puzzle-upper-triangular-ones-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2024-08-13 | [solution](problems/0002-transpose-of-a-matrix) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2024-10-18 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-06-14 | [solution](problems/0079-binomial-distribution-probability) |
