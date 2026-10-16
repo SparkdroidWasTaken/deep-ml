@@ -8,10 +8,9 @@ def normal_pdf(x, mean, std_dev):
 	:param std_dev: The standard deviation (σ) of the distribution.
 	"""
 	# Your code here
-    #the fraction
-    frac = 1/(math.sqrt(2*math.pi*(std_dev**2)))
-    #e bit
-    ebit = -(((x-mean)**2)/(2*(std_dev**2)))
-    val = frac*math.exp(ebit)
-	pass
+	norm_d = math.sqrt(2*math.pi*(std_dev**2))
+	exp_n = -((x-mean)**2)
+	exp_d = 2*(std_dev**2)
+	exp = math.exp(exp_n/exp_d)
+	val = (1/norm_d)*exp
 	return round(val,5)
