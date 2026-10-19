@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:50:16.844Z",
+  "generated_at": "2026-10-19T03:55:55.427Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -938,6 +938,17 @@
       "path": "math/0017-covariance-and-correlation",
       "first_solved_at": "2026-10-19T03:50:16.230Z",
       "last_pushed_at": "2026-10-19T03:50:16.230Z"
+    },
+    "math:50": {
+      "kind": "math",
+      "id": "50",
+      "title": "Positive Definite Matrices and Quadratic Forms",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/50",
+      "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
+      "first_solved_at": "2026-10-19T03:55:54.712Z",
+      "last_pushed_at": "2026-10-19T03:55:54.712Z"
     }
   }
 }
