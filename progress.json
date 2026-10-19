@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:58:38.968Z",
+  "generated_at": "2026-10-19T04:01:02.549Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -971,6 +971,17 @@
       "path": "math/0047-gram-schmidt-and-orthonormal-bases",
       "first_solved_at": "2026-10-19T03:58:38.064Z",
       "last_pushed_at": "2026-10-19T03:58:38.064Z"
+    },
+    "math:49": {
+      "kind": "math",
+      "id": "49",
+      "title": "PCA via Covariance Eigendecomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/49",
+      "path": "math/0049-pca-via-covariance-eigendecomposition",
+      "first_solved_at": "2026-10-19T04:01:01.903Z",
+      "last_pushed_at": "2026-10-19T04:01:01.903Z"
     }
   }
 }
