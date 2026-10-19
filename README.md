@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**58** solved · 57 problems · 0 labs · 1 math
+**59** solved · 58 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2025-06-14 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Random Rotation Matrix and a Rotation Layer](https://www.deep-ml.com/problems/1190) | easy | 2026-10-16 | [solution](problems/1190-random-rotation-matrix-and-a-rotation-layer) |
 | [Rejection Sampling Best-of-K Selection](https://www.deep-ml.com/problems/768) | easy | 2026-10-16 | [solution](problems/0768-rejection-sampling-best-of-k-selection) |
+| [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-10-19 | [solution](problems/1105-remove-duplicates-with-distinct) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2024-10-18 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2024-08-13 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-10-16 | [solution](problems/1101-select-all-rows) |
