@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:55:55.427Z",
+  "generated_at": "2026-10-19T03:57:12.789Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -949,6 +949,17 @@
       "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
       "first_solved_at": "2026-10-19T03:55:54.712Z",
       "last_pushed_at": "2026-10-19T03:55:54.712Z"
+    },
+    "math:46": {
+      "kind": "math",
+      "id": "46",
+      "title": "The Four Fundamental Subspaces",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/46",
+      "path": "math/0046-the-four-fundamental-subspaces",
+      "first_solved_at": "2026-10-19T03:57:12.182Z",
+      "last_pushed_at": "2026-10-19T03:57:12.182Z"
     }
   }
 }
