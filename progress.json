@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:14:15.504Z",
+  "generated_at": "2026-10-22T11:21:52.904Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1198,6 +1198,17 @@
       "path": "math/0054-discounted-return-and-the-geometric-series",
       "first_solved_at": "2026-10-22T11:14:14.050Z",
       "last_pushed_at": "2026-10-22T11:14:14.050Z"
+    },
+    "math:58": {
+      "kind": "math",
+      "id": "58",
+      "title": "Policy Gradient Theorem and REINFORCE",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/58",
+      "path": "math/0058-policy-gradient-theorem-and-reinforce",
+      "first_solved_at": "2026-10-22T11:21:51.626Z",
+      "last_pushed_at": "2026-10-22T11:21:51.626Z"
     }
   }
 }

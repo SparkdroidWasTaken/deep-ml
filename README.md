@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**96** solved · 71 problems · 0 labs · 25 math
+**97** solved · 71 problems · 0 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -105,6 +105,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-19 | [solution](math/0010-matrix-multiplication) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-19 | [solution](math/0014-orthogonality-and-projections) |
 | [PCA via Covariance Eigendecomposition](https://www.deep-ml.com/math-problems/49) | medium | 2026-10-19 | [solution](math/0049-pca-via-covariance-eigendecomposition) |
+| [Policy Gradient Theorem and REINFORCE](https://www.deep-ml.com/math-problems/58) | medium | 2026-10-22 | [solution](math/0058-policy-gradient-theorem-and-reinforce) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-10-19 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
 | [Pseudoinverse and Minimum-Norm Least Squares](https://www.deep-ml.com/math-problems/48) | medium | 2026-10-19 | [solution](math/0048-pseudoinverse-and-minimum-norm-least-squares) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-10-19 | [solution](math/0013-solving-linear-systems) |
