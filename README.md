@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**94** solved · 71 problems · 0 labs · 23 math
+**95** solved · 71 problems · 0 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -93,6 +93,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-19 | [solution](math/0009-matrix-basics) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-10-22 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-19 | [solution](math/0007-vector-operations) |
+| [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-10-22 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-10-19 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-10-19 | [solution](math/0011-determinants-and-trace) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-10-19 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |

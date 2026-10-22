@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:03:49.575Z",
+  "generated_at": "2026-10-22T11:09:34.270Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1176,6 +1176,17 @@
       "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
       "first_solved_at": "2026-10-22T11:03:47.863Z",
       "last_pushed_at": "2026-10-22T11:03:47.863Z"
+    },
+    "math:21": {
+      "kind": "math",
+      "id": "21",
+      "title": "Common Distributions I: Bernoulli, Binomial, Uniform",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/21",
+      "path": "math/0021-common-distributions-i-bernoulli-binomial-uniform",
+      "first_solved_at": "2026-10-22T11:09:33.035Z",
+      "last_pushed_at": "2026-10-22T11:09:33.035Z"
     }
   }
 }
